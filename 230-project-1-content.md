@@ -6,3 +6,11 @@ The player will be running, jumping, and attacking enemies to try and get to the
 
 ## Genre
 
+It will be an action platformer with some puzzle elements to it.
+
+## Platform
+
+It will be a desktop only game.
+
+## Story
+
