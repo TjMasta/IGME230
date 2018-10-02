@@ -14,3 +14,12 @@ It will be a desktop only game.
 
 ## Story
 
+Later
+
+## Esthetics
+
+It will have a cartoonish style, with an ambient or techno sound to it. There will be sounds for jumping, killing enemies, and moving to the next level.
+
+## Gameplay
+
+The player will constantly be running in one direction. They will be able to change direction, jump, and attack.
