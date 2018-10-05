@@ -14,7 +14,7 @@ It will be a desktop only game.
 
 ## Story
 
-Later
+You escaped from a robot society that enslaves people. You need to keep running as far as you can to get away from them.
 
 ## Esthetics
 
