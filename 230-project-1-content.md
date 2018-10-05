@@ -28,3 +28,12 @@ The player will constantly be running in one direction. They will be able to cha
 
 This is what some of the areas will look like
 
+![alt text](https://github.com/TjMasta/IGME230/blob/master/background.png "Background")
+
+![alt text](https://github.com/TjMasta/IGME230/blob/master/desert.png "Desert")
+
+![alt text](https://github.com/TjMasta/IGME230/blob/master/tundra.png "Tundra")
+
+## About the developer
+
+My name is TJ Driscoll, I am a second year Game Design major. I excel at programming and have an interest in music and game sounds.
