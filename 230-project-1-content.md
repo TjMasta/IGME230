@@ -23,3 +23,8 @@ It will have a cartoonish style, with an ambient or techno sound to it. There wi
 ## Gameplay
 
 The player will constantly be running in one direction. They will be able to change direction, jump, and attack.
+
+## Screenshots
+
+This is what some of the areas will look like
+
